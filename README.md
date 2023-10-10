@@ -1,9 +1,9 @@
 <h1 align="center">Zdravím poutníku👋, mé jméno jest Ondřej Tomšíček</h1>
-- 🌱 Momentálně se učím - **Java a Javascript**
+- 🌱 Momentálně se učím - Java a Javascript
 
 - 📫 Email: **Ondrej.tomsicek@student.spsmb.cz**
 
-- ⚡ **Lord of the Rings **
+- ⚡ Lord of the Rings 
 <img src="https://i.pinimg.com/originals/dd/c2/1f/ddc21f8c278a27abd4be7a0c48f72a26.gif" alt="sorry jako" height="150px" width="150px"/>
 <h3 align="left">Jsem aktivní na:</h3>
 <p align="left">
