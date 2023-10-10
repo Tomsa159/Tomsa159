@@ -3,7 +3,7 @@
 
 - 📫 Email: **Ondrej.tomsicek@student.spsmb.cz**
 
-- ⚡ **Lord of the Rings fan**
+- ⚡ **Lord of the Rings **
 <img src="https://i.pinimg.com/originals/dd/c2/1f/ddc21f8c278a27abd4be7a0c48f72a26.gif" alt="sorry jako" height="150px" width="150px"/>
 <h3 align="left">Jsem aktivní na:</h3>
 <p align="left">
