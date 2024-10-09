@@ -1,5 +1,4 @@
 <h1 align="center">Zdravím poutníku👋, mé jméno jest Ondřej Tomšíček</h1>
-- 🌱 Momentálně se učím - Java a Javascript
 
 - 📫 Email: **ondrej.tomsicek@student.spsmb.cz**
 
